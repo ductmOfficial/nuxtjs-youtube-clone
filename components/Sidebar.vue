@@ -46,12 +46,12 @@ const data = [
       {
         icon: 'mdi-compass-outline',
         title: 'Khám phá',
-        to: '/explore',
+        to: '',
       },
       {
         icon: 'mdi-bookmark-plus',
         title: 'Kênh đăng ký',
-        to: '/feed/subscriptions',
+        to: '',
       },
     ],
     divider: true,
